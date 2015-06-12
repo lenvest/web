@@ -6,48 +6,22 @@
 
 <html class="" lang="en-US">
 <head>
-    <link href=
-    "http://theme-fusion.com/avada/agency/wp-content/cache/minify/000011/RYtJDsJADAQ_xMjklDNPcRwHLM3YEu0s_B5EouTS6pKqOpLwZMkyxbuVnsylzqOCBCDkpypud3osPPKOJzGgCZp-_b68KqLp_5cDTtuqPV85xHb1bo3TwvEF.css"
+    <link href="<c:url value ="/static/css/main.css" /> "
     media="all" rel="stylesheet" type="text/css">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-    <title>Agency Live Demo</title>
+    <title>Lenvest</title>
     <!--[if lte IE 8]><script type="text/javascript" src="http://theme-fusion.com/avada/agency/wp-content/themes/Avada/assets/js/html5shiv.js"></script><![endif]-->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name=
     "viewport">
-    <link href="http://theme-fusion.com/avada/agency/feed/" rel="alternate"
-    title="Agency Live Demo &raquo; Feed" type="application/rss+xml">
-    <link href="http://theme-fusion.com/avada/agency/comments/feed/" rel=
-    "alternate" title="Agency Live Demo &raquo; Comments Feed" type=
-    "application/rss+xml">
-    <link href="http://theme-fusion.com/avada/agency/home/feed/" rel=
-    "alternate" title="Agency Live Demo &raquo; Home Comments Feed" type=
-    "application/rss+xml">
     <meta content="Home">
     <meta content="article">
-    <meta content="http://theme-fusion.com/avada/agency/">
-    <meta content="Agency Live Demo">
     <meta content="">
-    <meta content=
-    "http://theme-fusion.com/avada_demos/agency/wp-content/uploads/2014/10/agency_logo1x.png">
-    <link href=
-    'http://fonts.googleapis.com/css?family=Raleway%3A300%7CPT+Sans%3A300&#038;ver=4.2.2'
-    id='avada-google-fonts-css' media='all' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway%3A300%7CPT+Sans%3A300&#038;ver=4.2.2' id='avada-google-fonts-css' media='all' rel='stylesheet' type='text/css'>
     <!--[if lte IE 9]><link rel='stylesheet' id='avada-shortcodes-css'  href='http://theme-fusion.com/avada/agency/wp-content/themes/Avada/shortcodes.css?ver=3.8.4' type='text/css' media='all' /> <![endif]--><!--[if lte IE 9]><link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://theme-fusion.com/avada/agency/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=3.8.4' type='text/css' media='all' /> <![endif]--><!--[if lte IE 8]><link rel='stylesheet' id='avada-IE8-css'  href='http://theme-fusion.com/avada/agency/wp-content/themes/Avada/assets/css/ie8.css?ver=3.8.4' type='text/css' media='all' /> <![endif]--><!--[if IE]><link rel='stylesheet' id='avada-IE-css'  href='http://theme-fusion.com/avada/agency/wp-content/themes/Avada/assets/css/ie.css?ver=3.8.4' type='text/css' media='all' /> <![endif]-->
-    <script src=
-    'http://theme-fusion.com/avada/agency/wp-includes/js/jquery/jquery.js?ver=1.11.2'
-    type='text/javascript'></script>
-    <script src=
-    'http://theme-fusion.com/avada/agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'
-    type='text/javascript'></script>
-    <link href="http://theme-fusion.com/avada/agency/xmlrpc.php?rsd" rel=
-    "EditURI" title="RSD" type="application/rsd+xml">
-    <link href=
-    "http://theme-fusion.com/avada/agency/wp-includes/wlwmanifest.xml" rel=
-    "wlwmanifest" type="application/wlwmanifest+xml">
-    <meta content="WordPress 4.2.2" name="generator">
-    <link href='http://theme-fusion.com/avada/agency/' rel='canonical'>
-    <link href='http://theme-fusion.com/avada/agency/' rel='shortlink'>
+    <script src= 'http://theme-fusion.com/avada/agency/wp-includes/js/jquery/jquery.js?ver=1.11.2' type='text/javascript'></script>
+    <script src='http://theme-fusion.com/avada/agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1' type='text/javascript'></script>
+    
     <!--[if IE 9]><script>var _fusionParallaxIE9=true;</script><![endif]-->
     <!--[if lte IE 8]><script type="text/javascript">/*<![CDATA[*/jQuery(document).ready(function(){var imgs,i,w;var imgs=document.getElementsByTagName('img');for(i=0;i<imgs.length;i++){w=imgs[i].getAttribute('width');imgs[i].removeAttribute('width');imgs[i].removeAttribute('height');}});/*]]>*/</script><script src="http://theme-fusion.com/avada/agency/wp-content/themes/Avada/assets/js/excanvas.js"></script><![endif]--><!--[if lte IE 9]><script type="text/javascript">/*<![CDATA[*/jQuery(document).ready(function(){jQuery('body').each(function(){var combined_styles='<style type="text/css">';jQuery(this).find('style').each(function(){combined_styles+=jQuery(this).html();jQuery(this).remove();});combined_styles+='</style>';jQuery(this).prepend(combined_styles);});});/*]]>*/</script><![endif]-->
     <script type="text/javascript">
